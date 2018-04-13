@@ -9,4 +9,3 @@
         }
     });
     selectAreaDialog.show();
-    
